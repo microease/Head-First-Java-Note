@@ -9,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter_1/001_demo.java">
           <provider selected="true" editor-type-id="text-editor" />
@@ -32,23 +32,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Head-First-Java-Note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Head-First-Java-Note" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Head-First-Java-Note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Head-First-Java-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -82,23 +67,23 @@
       <updated>1547710401589</updated>
       <workItem from="1547710410146" duration="56000" />
       <workItem from="1547710573944" duration="319000" />
+      <workItem from="1551159958010" duration="901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="375000" />
+    <option name="totallyTimeSpent" value="1276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="409" y="40" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1597015" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16194029" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -110,6 +95,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -125,9 +111,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter_1/001">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_1/001" />
     <entry file="file://$PROJECT_DIR$/Chapter_1/001_demo.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
